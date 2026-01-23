@@ -74,6 +74,34 @@ The final sum is displayed in a single, readable sentence.
 
 ---
 
+## A3Task1.py
+**Description**
+This program is a basic factorial finder for a number given by the user , using a for loop. The final result is resulted as the output with a message!
+
+The cases are:
+- If input is less than 0 , we directly convey that negative numbers cannot be calculated for a factorial
+- If the input is greater or equal to 0,  we have a certain logic used!
+
+**Concepts Covered:**
+- Loops (`for`)
+- Factorial Logic
+
+## A3Task2.py
+**Description**
+This program accepts a **numerical input** from the user and performs various mathematical operations using the `math` module.
+
+**Operations Performed:**
+- Square root (`math.sqrt()`)
+- Natural logarithm (`math.log()`)
+- Sine calculation (`math.sin()`)
+
+The results of each operation are displayed to the user.
+
+**Concepts Covered:**
+- `math` module usage
+- Mathematical functions
+- String formatting (f-strings)
+
 ## 🚀 Learning Goals
 
 - Build strong Python fundamentals
