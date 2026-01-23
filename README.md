@@ -102,6 +102,36 @@ The results of each operation are displayed to the user.
 - Mathematical functions
 - String formatting (f-strings)
 
+## 📄 A4Task1.py — File Reading with Error Handling
+
+**Description:**  
+This program reads the contents of a file named `sample.txt` and displays each line with its line number.  
+It includes **exception handling** to gracefully manage errors when the file is not found or other issues occur.
+
+**Concepts Covered:**
+- File handling (reading)
+- Exception handling (`try`, `except`)
+- Loop enumeration
+- String stripping
+
+---
+
+## ✍️ A4Task2.py — File Writing and Appending
+
+**Description:**  
+This program demonstrates **file manipulation** by:
+1. Accepting user input and **writing** it to a file named `output.txt`
+2. Accepting additional input and **appending** it to the same file
+3. Reading and displaying the final file contents
+
+**Concepts Covered:**
+- File handling (writing, appending, reading)
+- Context managers (`with` statements)
+- User input handling
+
+---
+
+
 ## 🚀 Learning Goals
 
 - Build strong Python fundamentals
